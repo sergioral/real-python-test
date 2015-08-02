@@ -1,0 +1,1 @@
+This is about Cap. "Flask-blog" from RealPython Book II
